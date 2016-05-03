@@ -24,7 +24,7 @@ usage: cdqr2tf.py [-h] [-v] src_file
 ```
 
 ## DESCRIPTION
-This program converts the CDQR (https://github.com/rough007/CDQR) Reports to Timeflow format in addition to various parsing enhancements ofthe data.  Here is Timeflow Wiki (https://github.com/FlowingMedia/TimeFlow/wiki).  I have included a compiled version of Timeflow in the "dep" folder.  This version has some slight tweaks to the original version that make it with with CDQR Visualization tool.  Download "dep\TimeFlow_custom.7z", extract the contents to a folder and execute the "timeflow_64bit_bundled_jre.exe".
+This program converts the CDQR (https://github.com/rough007/CDQR) Reports to Timeflow format in addition to various parsing enhancements of the data.  Here is Timeflow Wiki (https://github.com/FlowingMedia/TimeFlow/wiki).  I have included a compiled version of Timeflow in the "dep" folder.  This version has some slight tweaks to the original version that make it with with CDQR Visualization tool.  Download "dep\TimeFlow_custom.7z", extract the contents to a folder and execute the "timeflow_64bit_bundled_jre.exe".
 
 
 ## ARGUMENTS
